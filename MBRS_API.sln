@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MBRS_API", "MBRS_API_DEMO\MBRS_API.csproj", "{7BFA03CA-8134-4F17-810C-6D9450846B3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MBRS_API.Test", "MBRS_API.Test\MBRS_API.Test.csproj", "{877022A0-BAFB-4527-8DB2-0D1D714CC8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFA03CA-8134-4F17-810C-6D9450846B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFA03CA-8134-4F17-810C-6D9450846B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFA03CA-8134-4F17-810C-6D9450846B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFA03CA-8134-4F17-810C-6D9450846B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877022A0-BAFB-4527-8DB2-0D1D714CC8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877022A0-BAFB-4527-8DB2-0D1D714CC8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877022A0-BAFB-4527-8DB2-0D1D714CC8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877022A0-BAFB-4527-8DB2-0D1D714CC8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFFD335-830E-4B4F-9CA0-E4991AC5DE3F}
+	EndGlobalSection
+EndGlobal
